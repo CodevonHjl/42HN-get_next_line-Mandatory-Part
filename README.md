@@ -32,7 +32,7 @@ Typical files in this repo:
 
 ⸻
 
-🧠 What I learned from this project
+## 🧠 What I learned from this project
 
 Compared to the earlier 42 C projects, get_next_line focuses much more on how your code talks to the operating system:
 
